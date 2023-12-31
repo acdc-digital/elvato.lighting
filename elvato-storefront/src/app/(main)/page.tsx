@@ -6,9 +6,9 @@ import { Metadata } from "next"
 import { Suspense } from "react"
 
 export const metadata: Metadata = {
-  title: "Medusa Next.js Starter Template",
+  title: "Elvato",
   description:
-    "A performant frontend ecommerce starter template with Next.js 14 and Medusa.",
+    "💡 💡 💡 Welcome to Elvato, a leading provider of innovative interior lighting and design solutions.",
 }
 
 export default async function Home() {
