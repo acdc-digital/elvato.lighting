@@ -15,10 +15,10 @@ ACDC.digital is an artifical-intellegence research agency putting our adopted le
 ### Latest Update: January 15, 2024 
 
 **Medusa**
-Website: https://medusajs.com/
-Github (Main): https://github.com/medusajs
-Github (Storefront): https://github.com/medusajs/nextjs-starter-medusa
-Docs: https://docs.medusajs.com/
+Website: https://medusajs.com/   
+Github (Main): https://github.com/medusajs   
+Github (Storefront): https://github.com/medusajs/nextjs-starter-medusa   
+Docs: https://docs.medusajs.com/   
 
 **Links**    
 Airtable catalogue: https://airtable.com/appWbQmjJ2alYZRtb/tblNMnrZHNmb4SaLW/viwDUIFuqOVV83D9w?blocks=hide   
@@ -29,11 +29,12 @@ Latest: v21.1.0
 Current (stable): v16.20.2 (npm v8.19.4)
 
 **PostGresql**  
-host=localhost port=5432 dbname=SolomonDB user=postgres connect_timeout=10 sslmode=prefer
+host=localhost port=5432 dbname=******* user=postgres connect_timeout=10 sslmode=prefer
 ***
 
 <br>
-**Introductory Statement:** 
+
+**Introductory Statement:**
 <br>
 
 
