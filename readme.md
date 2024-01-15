@@ -14,7 +14,7 @@ ACDC.digital is an artifical-intellegence research agency putting our adopted le
 
 ### Latest Update: January 15, 2024 
 
-**Medusa**
+**Medusa**   
 Website: https://medusajs.com/   
 Github (Main): https://github.com/medusajs   
 Github (Storefront): https://github.com/medusajs/nextjs-starter-medusa   
