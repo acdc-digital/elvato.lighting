@@ -10,7 +10,9 @@ ACDC.digital is an artifical-intellegence research agency putting our adopted le
 **Introduces:** 
 
 ![solomon-marker](assets/ELvato-GitLogo.png)
+***
 <br>
+**Introductory Statement:** 
 <br>
 
 
@@ -19,7 +21,7 @@ We've tried three commerce methods, opting for pre-packaged modules in order to 
 Comparison: https://headlesscommerceplatforms.com/
 
 
-
+<br><br><br> 
 
 Boiler-Plate (legacy module)
 
